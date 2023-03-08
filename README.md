@@ -11,5 +11,5 @@ your assumptions in the comment.
 ## Design
 
 ## Requirements
-[] React, Nodejs, Postgres
-[] Automated tests (Unit Tests, E2E Tests if possible)
+- React, Nodejs, Postgres
+- Automated tests (Unit Tests, E2E Tests if possible)
