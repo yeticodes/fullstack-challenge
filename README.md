@@ -9,6 +9,11 @@ Feel free to use your repo's Issues feature to ask questions. Finally do not for
 your assumptions in the comment.
 
 ## Design
+### Small Screen
+![Small Screen](small-screen.png?raw=true "Small Screen")
+
+### Large Screen
+![Large Screen](large-screen.png?raw=true "Large Screen")
 
 ## Requirements
 - React, Nodejs, Postgres
