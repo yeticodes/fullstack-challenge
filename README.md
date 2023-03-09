@@ -1,8 +1,8 @@
 # Yeticodes Fullstack Challenge
 
-Create a web app that registers a user. Refer the images below for UI design and API schema.
+Create a web app that logs in a user. Refer the images below for UI design and API schema.
 
-Create a private repo and invite suren@yeticodes.com and niroj@yeticodes.com.
+Create a private repo and invite niroj@yeticodes.com and suren@yeticodes.com.
 
 Feel free to use your repo's Issues feature to ask questions. Finally do not forget to mention
 
