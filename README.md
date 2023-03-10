@@ -19,3 +19,4 @@ your assumptions in the comment.
 - React, Nodejs, Postgres
 - Automated tests (Unit Tests, E2E Tests if possible)
 - The app must be responsive
+- Do not use any CSS frameworks
