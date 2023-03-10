@@ -16,7 +16,7 @@ your assumptions in the comment.
 ![Large Screen](large-screen.png?raw=true "Large Screen")
 
 ## Requirements
-- React, Nodejs, Postgres
+- Reactjs, Nodejs+Expressjs, Postgres/Mysql
 - Automated tests (Unit Tests, E2E Tests if possible)
 - The app must be responsive
 - Do not use any CSS frameworks
